@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kopech Smart HR & Payroll",
+  "description": "A comprehensive HR and Payroll management system for Kopech Solutions Ltd. Features include admin-issued letters with dual e-signatures, manager approvals for time and attendance, geofenced timeclock, and detailed payroll processing. Built to streamline HR operations with role-based access for Admins, Managers, and Employees.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
